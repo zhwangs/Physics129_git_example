@@ -1,1 +1,1 @@
-This is a text file used in git init. 
+This is a text file used in git init. (this is a message from local feature branch to test_info)
